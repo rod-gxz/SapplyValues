@@ -28,7 +28,7 @@ questions =  [
     {"id": 26, "question": "Quanto menor o Estado, mais livres as pessoas.", "effects": {"auth": -1}},
     {"id": 27, "question": "O governo deveria se limitar a prover serviços de emergência e de aplicação da lei.", "effects": {"auth": -1}},
     {"id": 28, "question": "O papel original da polícia não é proteger a população, mas sustentar o status quo por meio da força.", "effects": {"auth": -1}},
-    {"id": 29, "question": "Escolas do Estado são uma má ideia pois o governo não deve influenciar nossas crianças.", "effects": {"auth": -1}},
+    {"id": 29, "question": "Escolas públicas são uma má ideia pois o governo não deve influenciar nossas crianças.", "effects": {"auth": -1}},
     {"id": 30, "question": "Dois indivíduos, com consentimento, deveriam poder fazer o que quiserem um com o outro, mesmo que isso me deixaria desconfortável.", "effects": {"prog": 1}},
     {"id": 31, "question": "Cada indivíduo é dono de seu próprio corpo e deveria poder fazer o que quiser com ele.", "effects": {"prog": 1}},
     {"id": 32, "question": "As pessoas podem fazer parte de qualquer religião que elas quiserem.", "effects": {"prog": 1}},
