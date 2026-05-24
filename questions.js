@@ -24,7 +24,7 @@ questions =  [
     {"id": 22, "question": "Se você não tem nada a esconder, não tem porque temer vigilância.", "effects": {"auth": 1}},
     {"id": 23, "question": "O governo deveria estar menos envolvido no dia a dia dos seus cidadãos.", "effects": {"auth": -1}},
     {"id": 24, "question": "Democracia é mais que um processo de tomada de decisões, como eleições.", "effects": {"auth": 1}},
-    {"id": 25, "question": "Desconsideração da lei pelo júri, sistema em que o júri pode deixar de aplicar uma lei em um caso se a considerar injusta, deveria ser legal.", "effects": {"auth": -1}},
+    {"id": 25, "question": "Desconsideração da lei pelo júri (sistema em que o júri pode deixar de aplicar uma lei em um caso se a considerar injusta), deveria ser legal.", "effects": {"auth": -1}},
     {"id": 26, "question": "Quanto menor o Estado, mais livres as pessoas.", "effects": {"auth": -1}},
     {"id": 27, "question": "O governo deveria se limitar a prover serviços de emergência e de aplicação da lei.", "effects": {"auth": -1}},
     {"id": 28, "question": "O papel original da polícia não é proteger a população, mas sustentar o status quo por meio da força.", "effects": {"auth": -1}},
