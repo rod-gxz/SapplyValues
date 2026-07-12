@@ -33,7 +33,7 @@ questions =  [
     {"id": 31, "question": "Cada indivíduo é dono de seu próprio corpo e deveria poder fazer o que quiser com ele.", "effects": {"prog": 1}},
     {"id": 32, "question": "As pessoas devem poder fazer parte de qualquer religião.", "effects": {"prog": 1}},
     {"id": 33, "question": "Nudismo é algo completamente natural.", "effects": {"prog": 1}},
-    {"id": 34, "question": "Animais merecem alguns direitos universais, tais como direito à vida e à liberdade.", "effects": {"prog": 1}},
+    {"id": 34, "question": "Manter as tradições é importante para a sociedade.", "effects": {"prog": -1}},
     {"id": 35, "question": "Gênero é algo atribuído pela sociedade, não algo da natureza.", "effects": {"prog": 1}},
     {"id": 36, "question": "Leis baseadas em valores culturais, em vez de éticos, não são justiça.", "effects": {"prog": 1}},
     {"id": 37, "question": "A autonomia sobre o próprio corpo vale até para menores de idade, pessoas com problemas mentais e criminosos graves.", "effects": {"prog": 1}},
