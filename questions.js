@@ -19,7 +19,7 @@ questions =  [
     {"id": 17, "question": "A força é necessária para que qualquer governo tenha sucesso.", "effects": {"auth": 1}},
     {"id": 18, "question": "Apenas o governo consegue regular as corporações de maneira justa e efetiva.", "effects": {"auth": 1}},
     {"id": 19, "question": "A sociedade requer estrutura e burocracia para funcionar.", "effects": {"auth": 1}},
-    {"id": 20, "question": "Documentos de identificação obrigatórios, tais como RGs e passaportes, deveriam ser usados para garantir a segurança pública.", "effects": {"auth": 1}},
+    {"id": 20, "question": "Documentos de identificação obrigatórios, como RGs e passaportes, deveriam ser usados para garantir a segurança pública.", "effects": {"auth": 1}},
     {"id": 21, "question": "Em tempos de crise, a segurança é mais importante que as liberdades civis.", "effects": {"auth": 1}},
     {"id": 22, "question": "Se você não tem nada a esconder, não tem porque temer vigilância.", "effects": {"auth": 1}},
     {"id": 23, "question": "O governo deveria estar menos envolvido no dia a dia dos seus cidadãos.", "effects": {"auth": -1}},
