@@ -3,7 +3,7 @@ questions =  [
     {"id": 1, "question": "Instituições privadas de caridade são uma maneira melhor de ajudar os necessitados do que os programas sociais.", "effects": {"right": 1}},
     {"id": 2, "question": "Salários são sempre justos, pois o patrão sabe melhor quanto vale o trabalho do empregado.", "effects": {"right": 1}},
     {"id": 3, "question": "É \"natureza humana\" ser egoísta.", "effects": {"right": 1}},
-    {"id": 4, "question": "\"Exploração\" é um termo ultrapassado, já que os problemas do capitalismo do século XIX já não existem mais.", "effects": {"right": 1}},
+    {"id": 4, "question": "\"Exploração\" é um termo ultrapassado, já que os problemas do capitalismo dos 1800s já não existem mais.", "effects": {"right": 1}},
     {"id": 5, "question": "Comunismo é uma ideologia que nunca funcionaria na prática.", "effects": {"right": 1}},
     {"id": 6, "question": "Taxação sobre grandes fortunas é uma ideia ruim, a sociedade ficaria melhor sem isso.", "effects": {"right": 1}},
     {"id": 7, "question": "Quanto mais duro você trabalha, mais você sobe na escala social.", "effects": {"right": 1}},
