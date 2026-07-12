@@ -36,7 +36,7 @@ questions =  [
     {"id": 34, "question": "Manter as tradições é importante para a sociedade.", "effects": {"prog": -1}},
     {"id": 35, "question": "Gênero é algo atribuído pela sociedade, não algo da natureza.", "effects": {"prog": 1}},
     {"id": 36, "question": "Leis baseadas em valores culturais, em vez de éticos, não são justiça.", "effects": {"prog": 1}},
-    {"id": 37, "question": "A autonomia sobre o próprio corpo vale até para menores de idade, pessoas com problemas mentais e criminosos graves.", "effects": {"prog": 1}},
+    {"id": 37, "question": "A autonomia sobre o próprio corpo vale até para menores de idade.", "effects": {"prog": 1}},
     {"id": 38, "question": "A homossexualidade vai contra os meus valores.", "effects": {"prog": -1}},
     {"id": 39, "question": "A transsexualidade deveria ser legalmente reconhecida.", "effects": {"prog": 1}},
     {"id": 40, "question": "Drogas são nocivas e deveriam ser banidas.", "effects": {"prog": -1}},
