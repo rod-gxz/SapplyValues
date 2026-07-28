@@ -41,7 +41,7 @@ questions =  [
     {"id": 39, "question": "A homossexualidade vai contra os meus valores.", "effects": {"prog": -1}},
     {"id": 40, "question": "A transsexualidade deveria ser legalmente reconhecida.", "effects": {"prog": 1}},
     {"id": 41, "question": "Drogas são nocivas e deveriam ser banidas.", "effects": {"prog": -1}},
-    {"id": 42, "question": "Cotas (sociais, raciais, etc) em universidades são fundamentais para corrigir injustiças históricas.", "effects": {"prog": 1}},
+    {"id": 42, "question": "As cotas em universidades são fundamentais para corrigir injustiças históricas.", "effects": {"prog": 1}},
     {"id": 43, "question": "Crimes sem vítimas (uso de drogas em locais privados, dirigir sem cinto de segurança, etc.) ainda sim deveriam ser punidos.", "effects": {"prog": -1}},
     {"id": 44, "question": "Ninguém consegue ser moral sem religião.", "effects": {"prog": -1}},
     {"id": 45, "question": "Os pais deveriam ter controle absoluto sobre os próprios filhos, pois são mais velhos e mais experientes.", "effects": {"prog": -1}},
