@@ -8,7 +8,7 @@ questions =  [
     {"id": 6, "question": "Taxação sobre grandes fortunas é uma ideia ruim, a sociedade ficaria melhor sem isso.", "effects": {"right": 1}},
     {"id": 7, "question": "Quanto mais duro você trabalha, mais você sobe na escala social.", "effects": {"right": 1}},
     {"id": 8, "question": "Empresas e grandes corporações não são confiáveis e precisam de regulação governamental.", "effects": {"right": -1}},
-    {"id": 9, "question": "Um governo que provê para todos é, por natureza, uma boa ideia.", "effects": {"right": -1}},
+    {"id": 9, "question": "Um governo que garanta acesso universal e gratuito a serviços básicos é uma boa ideia.", "effects": {"right": -1}},
     {"id": 10, "question": "Grandes heranças deveriam ser fortemente tributadas.", "effects": {"right": -1}},
     {"id": 11, "question": "Terras não deveriam ser mercadorias para serem compradas e vendidas.", "effects": {"right": -1}},
     {"id": 12, "question": "Toda a indústria e bancos deveriam ser nacionalizados.", "effects": {"right": -1}},
