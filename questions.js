@@ -25,7 +25,7 @@ questions =  [
     {"id": 23, "question": "Em tempos de crise, a segurança e a ordem são mais importante que as liberdades civis.", "effects": {"auth": 1}},
     {"id": 24, "question": "Se você não tem nada a esconder, não tem porque temer vigilância.", "effects": {"auth": 1}},
     {"id": 25, "question": "O governo deveria estar menos envolvido na vida dos seus cidadãos.", "effects": {"auth": -1}},
-    {"id": 26, "question": "Um país é uma democracia se possui eleições livres.", "effects": {"auth": -1}},
+    {"id": 26, "question": "Um país só é uma democracia se possui eleições livres.", "effects": {"auth": -1}},
     {"id": 27, "question": "A pena de morte deveria existir em alguns casos.", "effects": {"auth": 1}},
     {"id": 28, "question": "Quanto menor o Estado, mais livres as pessoas.", "effects": {"auth": -1}},
     {"id": 29, "question": "O governo deveria se limitar a prover serviços de emergência e de segurança.", "effects": {"auth": -1}},
