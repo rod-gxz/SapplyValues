@@ -24,7 +24,7 @@ questions =  [
     {"id": 22, "question": "Em tempos de crise, a segurança e a ordem são mais importante que as liberdades civis.", "effects": {"auth": 1}},
     {"id": 23, "question": "Se você não tem nada a esconder, não tem porque temer vigilância.", "effects": {"auth": 1}},
     {"id": 24, "question": "O governo deveria estar menos envolvido na vida dos seus cidadãos.", "effects": {"auth": -1}},
-    {"id": 25, "question": "A existência de eleições livres é suficiente para que um país seja uma democracia.", "effects": {"auth": -1}},
+    {"id": 25, "question": "Um país é uma democracia se possui eleições livres.", "effects": {"auth": -1}},
     {"id": 26, "question": "A pena de morte deveria existir em alguns casos.", "effects": {"auth": 1}},
     {"id": 27, "question": "Quanto menor o Estado, mais livres as pessoas.", "effects": {"auth": -1}},
     {"id": 28, "question": "O governo deveria se limitar a prover serviços de emergência e de segurança.", "effects": {"auth": -1}},
@@ -43,7 +43,8 @@ questions =  [
     {"id": 41, "question": "Drogas são nocivas e deveriam ser banidas.", "effects": {"prog": -1}},
     {"id": 42, "question": "As cotas em universidades são fundamentais para corrigir injustiças históricas.", "effects": {"prog": 1}},
     {"id": 43, "question": "Crimes sem vítimas (uso de drogas em locais privados, dirigir sem cinto de segurança, etc.) ainda sim deveriam ser punidos.", "effects": {"prog": -1}},
-    {"id": 44, "question": "Ninguém consegue ser moral sem religião.", "effects": {"prog": -1}},
+    {"id": 44, "question": "Multiculturalismo é algo ruim.", "effects": {"prog": -1}},
     {"id": 45, "question": "Os pais deveriam ter controle absoluto sobre os próprios filhos, pois são mais velhos e mais experientes.", "effects": {"prog": -1}},
-    {"id": 46, "question": "Multiculturalismo é algo ruim.", "effects": {"prog": -1}}
+    {"id": 46, "question": "No sistema criminal, a reabilitação deve ser mais importante do que a punição.", "effects": {"prog": 1}}
+    {"id": 47, "question": "Ninguém consegue ser moral sem religião.", "effects": {"prog": -1}}
 ];
