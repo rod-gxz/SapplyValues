@@ -46,7 +46,7 @@ questions =  [
     {"id": 44, "question": "Crimes sem vítimas (uso de drogas em locais privados, dirigir sem cinto de segurança, etc.) ainda sim deveriam ser punidos.", "effects": {"prog": -1}},
     {"id": 45, "question": "Multiculturalismo é algo ruim.", "effects": {"prog": -1}},
     {"id": 46, "question": "Os pais deveriam ter controle absoluto sobre os próprios filhos, pois são mais velhos e mais experientes.", "effects": {"prog": -1}},
-    {"id": 47, "question": "No sistema criminal, a reabilitação deve ser mais importante do que a punição.", "effects": {"prog": 1}}
-    {"id": 48, "question": "A sociedade era melhor antigamente do que hoje.", "effects": {"prog": -1}}
+    {"id": 47, "question": "No sistema criminal, a reabilitação deve ser mais importante do que a punição.", "effects": {"prog": 1}},
+    {"id": 48, "question": "A sociedade era melhor antigamente do que hoje.", "effects": {"prog": -1}},
     {"id": 49, "question": "Ninguém consegue ser moral sem religião.", "effects": {"prog": -1}}
 ];
