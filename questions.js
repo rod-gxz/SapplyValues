@@ -31,7 +31,7 @@ questions =  [
     {"id": 29, "question": "O governo deveria se limitar a prover serviços de emergência e de segurança.", "effects": {"auth": -1}},
     {"id": 30, "question": "O papel da polícia não é proteger a população, mas sustentar a hierarquia social por meio da força.", "effects": {"auth": -1}},
     {"id": 31, "question": "As redes sociais deveriam ser regulamentadas.", "effects": {"auth": 1}},
-    {"id": 32, "question": "Dois indivíduos, com consentimento, deveriam poder fazer o que quiserem um com o outro, mesmo que isso me deixaria desconfortável.", "effects": {"prog": 1}},
+    {"id": 32, "question": "Dois indivíduos adultos, com consentimento, deveriam poder fazer o que quiserem um com o outro, mesmo que isso contrarie meus valores.", "effects": {"prog": 1}},
     {"id": 33, "question": "Cada indivíduo é dono de seu próprio corpo e deveria poder fazer o que quiser com ele.", "effects": {"prog": 1}},
     {"id": 34, "question": "As pessoas devem poder fazer parte de qualquer religião.", "effects": {"prog": 1}},
     {"id": 35, "question": "O aborto deveria ser legalizado.", "effects": {"prog": 1}},
