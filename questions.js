@@ -28,7 +28,7 @@ questions =  [
     {"id": 26, "question": "Um país só é uma democracia se possui eleições livres.", "effects": {"auth": -1}},
     {"id": 27, "question": "A pena de morte deveria existir em alguns casos.", "effects": {"auth": 1}},
     {"id": 28, "question": "Quanto menor o Estado, mais livres as pessoas.", "effects": {"auth": -1}},
-    {"id": 29, "question": "O governo deveria se <u>limitar</u> a prover serviços de emergência e de segurança.", "effects": {"auth": -1}},
+    {"id": 29, "question": "O governo deveria se limitar a prover apenas os serviços de emergência e de segurança.", "effects": {"auth": -1}},
     {"id": 30, "question": "O papel da polícia não é proteger a população, mas sustentar a hierarquia social por meio da força.", "effects": {"auth": -1}},
     {"id": 31, "question": "As redes sociais deveriam ser regulamentadas.", "effects": {"auth": 1}},
     {"id": 32, "question": "Dois indivíduos adultos, com consentimento, deveriam poder fazer o que quiserem um com o outro, mesmo que isso contrarie meus valores.", "effects": {"prog": 1}},
