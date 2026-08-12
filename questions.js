@@ -17,7 +17,7 @@ questions =  [
     {"id": 15, "question": "A riqueza deveria ser melhor distribuída.", "effects": {"right": -1}},
     {"id": 16, "question": "A intervenção do Estado é uma ameaça à economia.", "effects": {"right": 1}},
     {"id": 17, "question": "Em algumas situações, é legítimo que o governo espione seus cidadãos para combater extremistas e terroristas.", "effects": {"auth": 1}},
-    {"id": 18, "question": "Figuras autoritárias, se moralmente corretas, são uma coisa boa para a sociedade.", "effects": {"auth": 1}},
+    {"id": 18, "question": "Autoridades fortes, se moralmente corretas, são uma coisa boa para a sociedade.", "effects": {"auth": 1}},
     {"id": 19, "question": "A força é necessária para que qualquer governo tenha sucesso.", "effects": {"auth": 1}},
     {"id": 20, "question": "Apenas o governo consegue regular as corporações de maneira justa e efetiva.", "effects": {"auth": 1}},
     {"id": 21, "question": "A sociedade requer estrutura e burocracia para funcionar.", "effects": {"auth": 1}},
