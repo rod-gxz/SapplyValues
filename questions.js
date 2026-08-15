@@ -19,7 +19,7 @@ questions =  [
     {"id": 17, "question": "Em algumas situações, é legítimo que o governo espione seus cidadãos para combater extremistas e terroristas.", "effects": {"auth": 1}},
     {"id": 18, "question": "Autoridades fortes, se moralmente corretas, são uma coisa boa para a sociedade.", "effects": {"auth": 1}},
     {"id": 19, "question": "A força é necessária para que qualquer governo tenha sucesso.", "effects": {"auth": 1}},
-    {"id": 20, "question": "Somente o governo é capaz de manter a ordem.", "effects": {"auth": 1}},
+    {"id": 20, "question": "Somente o Estado é capaz de manter a ordem.", "effects": {"auth": 1}},
     {"id": 21, "question": "A sociedade requer estrutura e burocracia para funcionar.", "effects": {"auth": 1}},
     {"id": 22, "question": "Documentos de identificação obrigatórios, como RGs e passaportes, deveriam ser usados para garantir a segurança pública.", "effects": {"auth": 1}},
     {"id": 23, "question": "Em tempos de crise, a segurança e a ordem são mais importante que as liberdades civis.", "effects": {"auth": 1}},
