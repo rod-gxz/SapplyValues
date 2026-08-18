@@ -14,7 +14,7 @@ questions =  [
     {"id": 12, "question": "Terras não deveriam ser mercadorias para serem compradas e vendidas.", "effects": {"right": -1}},
     {"id": 13, "question": "Toda a indústria e bancos deveriam ser nacionalizados.", "effects": {"right": -1}},
     {"id": 14, "question": "Classe é a divisão principal da sociedade.", "effects": {"right": -1}},
-    {"id": 15, "question": "A riqueza deveria ser melhor distribuída.", "effects": {"right": -1}},
+    {"id": 15, "question": "A riqueza deveria ser redistribuída.", "effects": {"right": -1}},
     {"id": 16, "question": "A intervenção do Estado é uma ameaça à economia.", "effects": {"right": 1}},
     {"id": 17, "question": "Em algumas situações, é legítimo que o governo espione seus cidadãos para combater extremistas e terroristas.", "effects": {"auth": 1}},
     {"id": 18, "question": "Autoridades fortes, se moralmente corretas, são uma coisa boa para a sociedade.", "effects": {"auth": 1}},
