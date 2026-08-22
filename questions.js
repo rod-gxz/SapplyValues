@@ -1,5 +1,5 @@
 questions =  [
-    {"id": 0, "question": "O livre mercado é a melhor e mais prática maneira de uma sociedade prosperar.", "effects": {"right": 1}},
+    {"id": 0, "question": "Uma economia de mercado é a melhor e mais prática maneira de uma sociedade prosperar.", "effects": {"right": 1}},
     {"id": 1, "question": "Os programas sociais governamentais são um gasto desnecessário que deve ser reduzido.", "effects": {"right": 1}},
     {"id": 2, "question": "Salários são justos, pois o patrão sabe melhor quanto vale o trabalho do empregado.", "effects": {"right": 1}},
     {"id": 3, "question": "É \"natureza humana\" ser egoísta.", "effects": {"right": 1}},
