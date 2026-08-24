@@ -21,7 +21,7 @@ questions =  [
     {"id": 19, "question": "A força é necessária para que qualquer governo tenha sucesso.", "effects": {"auth": 1}},
     {"id": 20, "question": "Somente o Estado é capaz de garantir a ordem.", "effects": {"auth": 1}},
     {"id": 21, "question": "A sociedade requer estrutura e burocracia para funcionar.", "effects": {"auth": 1}},
-    {"id": 22, "question": "Documentos de identificação obrigatórios deveriam ser exigidos, para garantir a segurança pública.", "effects": {"auth": 1}},
+    {"id": 22, "question": "Documentos de identificação obrigatórios deveriam ser exigidos para garantir a segurança pública.", "effects": {"auth": 1}},
     {"id": 23, "question": "Em tempos de crise, a segurança e a ordem são mais importante que as liberdades civis.", "effects": {"auth": 1}},
     {"id": 24, "question": "Se você não tem nada a esconder, não tem porque temer vigilância.", "effects": {"auth": 1}},
     {"id": 25, "question": "O governo deveria estar menos envolvido na vida dos cidadãos.", "effects": {"auth": -1}},
