@@ -43,7 +43,7 @@ questions =  [
     {"id": 41, "question": "As cotas em universidades são fundamentais para corrigir injustiças históricas.", "effects": {"prog": 1}},
     {"id": 42, "question": "Drogas são nocivas e deveriam ser banidas.", "effects": {"prog": -1}},
     {"id": 43, "question": "A transsexualidade deveria ser legalmente reconhecida.", "effects": {"prog": 1}},
-    {"id": 44, "question": "Crimes sem vítimas (uso de drogas em locais privados, dirigir sem cinto de segurança, etc.) ainda sim deveriam ser punidos.", "effects": {"prog": -1}},
+    {"id": 44, "question": "Crimes autoinfringentes ainda sim deveriam ser punidos.", "effects": {"prog": -1}},
     {"id": 45, "question": "Multiculturalismo é algo ruim.", "effects": {"prog": -1}},
     {"id": 46, "question": "Os pais deveriam ter controle absoluto sobre os próprios filhos, pois são mais velhos e mais experientes.", "effects": {"prog": -1}},
     {"id": 47, "question": "No sistema criminal, a reabilitação deve ser mais importante do que a punição.", "effects": {"prog": 1}},
