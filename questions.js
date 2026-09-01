@@ -27,7 +27,7 @@ questions =  [
     {"id": 25, "question": "O governo deveria estar menos envolvido na vida dos cidadãos.", "effects": {"auth": -1}},
     {"id": 26, "question": "Um país só é uma democracia se possuir eleições.", "effects": {"auth": -1}},
     {"id": 27, "question": "A pena de morte deveria existir em alguns casos.", "effects": {"auth": 1}},
-    {"id": 28, "question": "“O poder do Estado deve ser limitado para preservar as liberdades individuais.", "effects": {"auth": -1}},
+    {"id": 28, "question": "O poder do Estado deve ser limitado para preservar as liberdades individuais.", "effects": {"auth": -1}},
     {"id": 29, "question": "O governo deveria se limitar a prover apenas os serviços de emergência e de segurança.", "effects": {"auth": -1}},
     {"id": 30, "question": "O papel da polícia não é proteger a população, mas sustentar a hierarquia social por meio da força.", "effects": {"auth": -1}},
     {"id": 31, "question": "As redes sociais deveriam ser regulamentadas.", "effects": {"auth": 1}},
