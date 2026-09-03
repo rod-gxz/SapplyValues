@@ -2,7 +2,7 @@ questions =  [
     {"id": 0, "question": "Uma economia de mercado é a melhor e mais prática maneira de uma sociedade prosperar.", "effects": {"right": 1}},
     {"id": 1, "question": "Os programas sociais governamentais são um gasto desnecessário que deve ser reduzido.", "effects": {"right": 1}},
     {"id": 2, "question": "Salários são justos, pois o patrão sabe melhor quanto vale o trabalho do empregado.", "effects": {"right": 1}},
-    {"id": 3, "question": "A desigualdade econômica é algo inevitável.", "effects": {"right": 1}},
+    {"id": 3, "question": "A desigualdade econômica é algo natural e inevitável.", "effects": {"right": 1}},
     {"id": 4, "question": "\"Exploração\" é um termo ultrapassado, já que os problemas do capitalismo dos 1800s já foram superados.", "effects": {"right": 1}},
     {"id": 5, "question": "Comunismo é uma ideologia que nunca funcionaria na prática.", "effects": {"right": 1}},
     {"id": 6, "question": "Empresas e serviços estatais deveriam ser privatizados para maior eficiência.", "effects": {"right": 1}},
