@@ -5,7 +5,7 @@ questions =  [
     {"id": 3, "question": "A desigualdade econômica é algo natural e inevitável.", "effects": {"right": 1}},
     {"id": 4, "question": "\"Exploração\" é um termo ultrapassado, já que os problemas do capitalismo dos 1800s já foram superados.", "effects": {"right": 1}},
     {"id": 5, "question": "Comunismo é uma ideologia que nunca funcionaria na prática.", "effects": {"right": 1}},
-    {"id": 6, "question": "Empresas e serviços estatais deveriam ser privatizados para maior eficiência.", "effects": {"right": 1}},
+    {"id": 6, "question": "Algumas empresas e serviços estatais deveriam ser privatizados para maior eficiência.", "effects": {"right": 1}},
     {"id": 7, "question": "Taxação sobre grandes fortunas é uma ideia ruim, a sociedade ficaria melhor sem isso.", "effects": {"right": 1}},
     {"id": 8, "question": "Quanto mais duro você trabalha, mais você sobe na pirâmide social.", "effects": {"right": 1}},
     {"id": 9, "question": "Empresas e corporações não são confiáveis e precisam de regulação governamental.", "effects": {"right": -1}},
